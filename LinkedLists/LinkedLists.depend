@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1586334195 source:c:\users\leigh-ann\documents\fires\datastructures\cpp\linkedlists\main.cpp
+	<iostream>
+
+1586335603 source:c:\users\leigh-ann\documents\fires\datastructures\cpp\linkedlists\src\linkedlistiterator.cpp
+	"linkedListIterator.h"
+
+1586335879 c:\users\leigh-ann\documents\fires\datastructures\cpp\linkedlists\include\linkedlistiterator.h
+	<cstddef>
+
